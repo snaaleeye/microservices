@@ -1,2 +1,2 @@
 ## Diagram of task
-![Untitled](https://user-images.githubusercontent.com/105854053/177558712-d61e3705-8665-456d-be04-44784f7a20f7.jpg)
+![Untitled (1)](https://user-images.githubusercontent.com/105854053/177558941-8585a32f-7dea-48bf-9c2c-929b9e1fcea1.jpg)
